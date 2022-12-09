@@ -1,2 +1,15 @@
 # apple-background-animated
- Background animado 
+
+    Fundo animado da Apple desenvolvido nas tecnologias:
+
+- HTML5
+- CSS3
+
+
+# Navegadores
+
+- Chrome
+- Edge
+- FireFox
+- Opera
+
