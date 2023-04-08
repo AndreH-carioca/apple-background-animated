@@ -1,12 +1,11 @@
 # Background animado com a logomarca da Apple
 
-# Tecnologias Utilizadas:
+ Tecnologias Utilizadas:
 
 - HTML5
 - CSS3
 
-
-# Navegadores
+Navegadores
 
 - Chrome
 - Edge
