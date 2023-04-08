@@ -1,6 +1,6 @@
-# apple-background-animated
+# Background animado com a logomarca da Apple
 
-    Fundo animado da Apple desenvolvido nas tecnologias:
+# Tecnologias Utilizadas:
 
 - HTML5
 - CSS3
